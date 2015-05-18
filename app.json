@@ -1,6 +1,6 @@
 {
   "name": "M2X Python Demo App",
-  "description": "AT&T M2X Heroku Demo Application",
+  "description": "AT&amp;T M2X Heroku Demo Application",
   "repository": "https://github.com/attm2x/m2x-demo-heroku-python",
   "keywords": ["python", "m2x"],
   "addons": ["m2x"]
